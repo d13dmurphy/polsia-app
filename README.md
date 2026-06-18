@@ -1,2 +1,2 @@
 # polsia-app
-neighborly app 
+wiseguide 
